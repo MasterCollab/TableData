@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <h1>Countries</h1>
       <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Class/ Month</th>
+<thead><tr><th title="Field #1"></th>
 <th title="Field #2">January</th>
 <th title="Field #3">February</th>
 <th title="Field #4">March</th>
@@ -71,7 +71,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Goa, India</td>
 <td>Goa, India</td>
 <td>Goa, India</td>
@@ -101,7 +101,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Rimini, Italy</td>
 <td>Rimini, Italy</td>
 <td>Ayia Napa, Cyprus</td>
@@ -131,7 +131,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
 <td>Rimini, Italy</td>
@@ -161,7 +161,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Pattaya, Thailand</td>
@@ -191,7 +191,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Tenerife, Spain</td>
 <td>Tenerife, Spain</td>
 <td>Bali, Indonesia</td>
@@ -221,7 +221,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
 <td>Tenerife, Spain</td>
@@ -251,7 +251,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Costa Brava, Spain</td>
@@ -281,7 +281,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Limassol, Cyprus</td>
@@ -311,7 +311,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Phuket, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Larnaca, Cyprus</td>
@@ -341,7 +341,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>London, Great Britain</td>
 <td>London, Great Britain</td>
 <td>London, Great Britain</td>
@@ -371,7 +371,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
@@ -401,7 +401,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
@@ -431,7 +431,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Sölden, Austria</td>
 <td>Sölden, Austria</td>
 <td>Sölden, Austria</td>
@@ -461,7 +461,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Barcelona, ​​Spain</td>
 <td>Barcelona, ​​Spain</td>
 <td>Barcelona, ​​Spain</td>
@@ -491,7 +491,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
@@ -521,7 +521,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td>Amsterdam, Netherlands</td>
 <td>Amsterdam, Netherlands</td>
 <td>Amsterdam, Netherlands</td>
@@ -551,7 +551,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -581,7 +581,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -611,7 +611,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -641,7 +641,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -671,7 +671,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -701,7 +701,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -731,7 +731,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -761,7 +761,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -791,7 +791,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Active nightlife</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -851,7 +851,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Kislovodsk, Russia</td>
 <td>Kislovodsk, Russia</td>
@@ -881,7 +881,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Hainan, China</td>
 <td>Essentuki, Russia</td>
 <td>Essentuki, Russia</td>
@@ -911,7 +911,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Bali, Indonesia</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -941,7 +941,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Dead Sea, Israel</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
@@ -971,7 +971,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
@@ -1001,7 +1001,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Tenerife, Spain</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
@@ -1031,7 +1031,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Hammamet, Tunisia</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Karlovy Vary, Czech Republic</td>
@@ -1061,7 +1061,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Loutraki, Greece</td>
 <td>Tenerife, Spain</td>
 <td>Tenerife, Spain</td>
@@ -1091,7 +1091,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Paphos, Cyprus</td>
 <td>Hammamet, Tunisia</td>
 <td>Hammamet, Tunisia</td>
@@ -1121,7 +1121,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Jachymov, Czech Republic</td>
 <td>Loutraki, Greece</td>
 <td>Vienna, Austria</td>
@@ -1151,7 +1151,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Sharjah, UAE</td>
 <td>Paphos, Cyprus</td>
 <td>Loutraki, Greece</td>
@@ -1181,7 +1181,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Sarvar, Hungary</td>
 <td>Jachymov, Czech Republic</td>
 <td>Paphos, Cyprus</td>
@@ -1211,7 +1211,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Zell am See, Austria</td>
 <td>Sharjah, UAE</td>
 <td>Jachymov, Czech Republic</td>
@@ -1241,7 +1241,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Harkany, Hungary</td>
 <td>Sarvar, Hungary</td>
 <td>Sharjah, UAE</td>
@@ -1271,7 +1271,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Hajduszoboszlo, Hungary</td>
 <td>Zell am See, Austria</td>
 <td>Sarvar, Hungary</td>
@@ -1301,7 +1301,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Fujairah, UAE</td>
 <td>Harkany, Hungary</td>
 <td>Zell am See, Austria</td>
@@ -1331,7 +1331,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
 <td>Hajduszoboszlo, Hungary</td>
 <td>Harkany, Hungary</td>
@@ -1361,7 +1361,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Teplice, Czech Republic</td>
 <td>Fujairah, UAE</td>
 <td>Hajduszoboszlo, Hungary</td>
@@ -1391,7 +1391,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Tapolca, Hungary</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
 <td>Fujairah, UAE</td>
@@ -1421,7 +1421,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Podebrady, Czech Republic</td>
 <td>Teplice, Czech Republic</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
@@ -1451,7 +1451,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Ordino, Andorra</td>
 <td>Tapolca, Hungary</td>
 <td>Teplice, Czech Republic</td>
@@ -1481,7 +1481,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Lake Heviz, Hungary</td>
 <td>Podebrady, Czech Republic</td>
 <td>Tapolca, Hungary</td>
@@ -1511,7 +1511,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Lake Balaton, Hungary</td>
 <td>Ordino, Andorra</td>
 <td>Podebrady, Czech Republic</td>
@@ -1541,7 +1541,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Koh Samui, Thailand</td>
 <td>Lake Heviz, Hungary</td>
 <td>Ordino, Andorra</td>
@@ -1571,7 +1571,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Phuket, Thailand</td>
 <td>Koh Samui, Thailand</td>
 <td>Lake Heviz, Hungary</td>
@@ -1601,7 +1601,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Nha Trang, Vietnam</td>
 <td>Phuket, Thailand</td>
 <td>Koh Samui, Thailand</td>
@@ -1631,7 +1631,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Marianske Lazne, Czech Republic</td>
 <td>Nha Trang, Vietnam</td>
 <td>Nha Trang, Vietnam</td>
@@ -1661,7 +1661,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Cancun, Mxico</td>
 <td>Marianske Lazne, Czech Republic</td>
 <td>Marianske Lazne, Czech Republic</td>
@@ -1691,7 +1691,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Dubai, UAE</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
@@ -1721,7 +1721,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Debrecen, Hungary</td>
 <td>Dubai, UAE</td>
 <td>Dubai, UAE</td>
@@ -1751,7 +1751,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Debrecen, Hungary</td>
 <td>Debrecen, Hungary</td>
@@ -1781,7 +1781,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Bentota, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -1811,7 +1811,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Bad Gastein, Austria</td>
 <td>Bentota, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
@@ -1841,7 +1841,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Arinsal, Andorra</td>
 <td>Bad Gastein, Austria</td>
 <td>Bad Gastein, Austria</td>
@@ -1871,7 +1871,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Arinsal, Andorra</td>
 <td>Arinsal, Andorra</td>
@@ -1901,7 +1901,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td>Aqaba, Jordan</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
@@ -1931,7 +1931,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td>Aqaba, Jordan</td>
 <td>Aqaba, Jordan</td>
@@ -1961,7 +1961,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1991,7 +1991,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2021,7 +2021,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2051,7 +2051,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2081,7 +2081,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2111,7 +2111,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2141,7 +2141,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2171,7 +2171,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2201,7 +2201,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2231,7 +2231,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2261,7 +2261,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2291,7 +2291,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2321,7 +2321,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2351,7 +2351,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2381,7 +2381,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2411,7 +2411,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Silence and solitude</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -2471,7 +2471,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Bansko, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
 <td>Ayia Napa, Cyprus</td>
@@ -2501,7 +2501,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Borovets, Bulgaria</td>
 <td>Borovets, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
@@ -2531,7 +2531,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Belek, Turkey</td>
 <td>Belek, Turkey</td>
 <td>Borovets, Bulgaria</td>
@@ -2561,7 +2561,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Belek, Turkey</td>
@@ -2591,7 +2591,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -2621,7 +2621,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Hainan, China</td>
@@ -2651,7 +2651,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Bali, Indonesia</td>
@@ -2681,7 +2681,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
 <td>Puerto Plata, Dominican Republic</td>
@@ -2711,7 +2711,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Costa Brava, Spain</td>
@@ -2741,7 +2741,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Limassol, Cyprus</td>
@@ -2771,7 +2771,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Paphos, Cyprus</td>
 <td>Paphos, Cyprus</td>
 <td>Larnaca, Cyprus</td>
@@ -2801,7 +2801,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Zell am See, Austria</td>
 <td>Zell am See, Austria</td>
 <td>Paphos, Cyprus</td>
@@ -2831,7 +2831,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Zell am See, Austria</td>
@@ -2861,7 +2861,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Ordino, Andorra</td>
 <td>Ordino, Andorra</td>
 <td>Hikkaduwa, Sri Lanka</td>
@@ -2891,7 +2891,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Lake Balaton, Hungary</td>
 <td>Koh Samui, Thailand</td>
 <td>Ordino, Andorra</td>
@@ -2921,7 +2921,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Koh Samui, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Koh Samui, Thailand</td>
@@ -2951,7 +2951,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Phuket, Thailand</td>
 <td>Nha Trang, Vietnam</td>
 <td>Nha Trang, Vietnam</td>
@@ -2981,7 +2981,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Nha Trang, Vietnam</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
@@ -3011,7 +3011,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Canillo, Andorra</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Kalutara, Sri Lanka</td>
@@ -3041,7 +3041,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Sölden, Austria</td>
 <td>Sölden, Austria</td>
@@ -3071,7 +3071,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Sölden, Austria</td>
 <td>Seefeld, Austria</td>
 <td>Seefeld, Austria</td>
@@ -3101,7 +3101,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Seefeld, Austria</td>
 <td>Harrachov, Czech Republic</td>
 <td>Harrachov, Czech Republic</td>
@@ -3131,7 +3131,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Harrachov, Czech Republic</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -3161,7 +3161,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
@@ -3191,7 +3191,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Bentota, Sri Lanka</td>
 <td>Bad Gastein, Austria</td>
 <td>Bad Gastein, Austria</td>
@@ -3221,7 +3221,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td>Bad Gastein, Austria</td>
 <td> </td>
 <td> </td>
@@ -3251,7 +3251,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -3281,7 +3281,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -3311,7 +3311,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -3341,7 +3341,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -3371,7 +3371,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Sports and outdoor activities</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -3431,7 +3431,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Rimini, Italy</td>
 <td>Rimini, Italy</td>
 <td>Rimini, Italy</td>
@@ -3461,7 +3461,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
@@ -3491,7 +3491,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
@@ -3521,7 +3521,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
@@ -3551,7 +3551,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
@@ -3581,7 +3581,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Sharjah, UAE</td>
 <td>Sharjah, UAE</td>
 <td>Sharjah, UAE</td>
@@ -3611,7 +3611,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
@@ -3641,7 +3641,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Rome, Italy</td>
 <td>Rome, Italy</td>
 <td>Rome, Italy</td>
@@ -3671,7 +3671,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Prague, Czech Republic</td>
 <td>Prague, Czech Republic</td>
 <td>Prague, Czech Republic</td>
@@ -3701,7 +3701,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Milan, Italy</td>
 <td>Milan, Italy</td>
 <td>Milan, Italy</td>
@@ -3731,7 +3731,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Madrid, Spain</td>
 <td>Madrid, Spain</td>
 <td>Madrid, Spain</td>
@@ -3761,7 +3761,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>London, Great Britain</td>
 <td>London, Great Britain</td>
 <td>London, Great Britain</td>
@@ -3791,7 +3791,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
@@ -3821,7 +3821,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
@@ -3851,7 +3851,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Dubai, UAE</td>
 <td>Dubai, UAE</td>
 <td>Dubai, UAE</td>
@@ -3881,7 +3881,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Barcelona, ​​Spain</td>
 <td>Barcelona, ​​Spain</td>
 <td>Barcelona, ​​Spain</td>
@@ -3911,7 +3911,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Arinsal, Andorra</td>
 <td>Arinsal, Andorra</td>
 <td>Arinsal, Andorra</td>
@@ -3941,7 +3941,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td>Paris, France</td>
 <td>Paris, France</td>
 <td>Paris, France</td>
@@ -3971,7 +3971,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4001,7 +4001,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4031,7 +4031,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4061,7 +4061,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Good shopping</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4121,7 +4121,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Essentuki, Russia</td>
 <td>Essentuki, Russia</td>
 <td>Essentuki, Russia</td>
@@ -4151,7 +4151,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
@@ -4181,7 +4181,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
@@ -4211,7 +4211,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
@@ -4241,7 +4241,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Karlovy Vary, Czech Republic</td>
@@ -4271,7 +4271,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Hammamet, Tunisia</td>
 <td>Hammamet, Tunisia</td>
 <td>Hammamet, Tunisia</td>
@@ -4301,7 +4301,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Loutraki, Greece</td>
 <td>Loutraki, Greece</td>
 <td>Loutraki, Greece</td>
@@ -4331,7 +4331,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Jachymov, Czech Republic</td>
 <td>Jachymov, Czech Republic</td>
 <td>Jachymov, Czech Republic</td>
@@ -4361,7 +4361,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Sarvar, Hungary</td>
 <td>Sarvar, Hungary</td>
 <td>Sarvar, Hungary</td>
@@ -4391,7 +4391,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Harkany, Hungary</td>
 <td>Harkany, Hungary</td>
 <td>Harkany, Hungary</td>
@@ -4421,7 +4421,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Hajduszoboszlo, Hungary</td>
 <td>Hajduszoboszlo, Hungary</td>
 <td>Hajduszoboszlo, Hungary</td>
@@ -4451,7 +4451,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Fiuggi, Italy</td>
 <td>Fiuggi, Italy</td>
 <td>Fiuggi, Italy</td>
@@ -4481,7 +4481,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
 <td>Frantiskovy Lazne, Czech Republic</td>
@@ -4511,7 +4511,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Teplice, Czech Republic</td>
 <td>Teplice, Czech Republic</td>
 <td>Teplice, Czech Republic</td>
@@ -4541,7 +4541,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Tapolca, Hungary</td>
 <td>Tapolca, Hungary</td>
 <td>Tapolca, Hungary</td>
@@ -4571,7 +4571,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Podebrady, Czech Republic</td>
 <td>Podebrady, Czech Republic</td>
 <td>Podebrady, Czech Republic</td>
@@ -4601,7 +4601,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Lake Heviz, Hungary</td>
 <td>Lake Heviz, Hungary</td>
 <td>Lake Heviz, Hungary</td>
@@ -4631,19 +4631,19 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
-<td>Lake Balaton, Hungary</td>
-<td>Marianske Lazne, Czech Republic</td>
-<td>Marianske Lazne, Czech Republic</td>
-<td>Marianske Lazne, Czech Republic</td>
-<td>Lake Balaton, Hungary</td>
-<td>Lake Balaton, Hungary</td>
-<td>Lake Balaton, Hungary</td>
-<td>Lake Balaton, Hungary</td>
-<td>Lake Balaton, Hungary</td>
-<td>Lake Balaton, Hungary</td>
+<td>Wellness treatment and SPA</td>
 <td>Lake Balaton, Hungary</td>
 <td>Marianske Lazne, Czech Republic</td>
+<td>Marianske Lazne, Czech Republic</td>
+<td>Marianske Lazne, Czech Republic</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Lake Balaton, Hungary</td>
+<td>Marianske Lazne, Czech Republic</td>
 </tr>
 <tr>
 <td> </td>
@@ -4661,7 +4661,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Marianske Lazne, Czech Republic</td>
 <td>Lazne Belograd, Czech Republic</td>
 <td>Lazne Belograd, Czech Republic</td>
@@ -4691,7 +4691,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Lazne Belograd, Czech Republic</td>
 <td>Debrecen, Hungary</td>
 <td>Debrecen, Hungary</td>
@@ -4721,7 +4721,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Debrecen, Hungary</td>
 <td>Budapest, Hungary</td>
 <td>Budapest, Hungary</td>
@@ -4751,7 +4751,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Budapest, Hungary</td>
 <td>Bad Gastein, Austria</td>
 <td>Bad Gastein, Austria</td>
@@ -4781,7 +4781,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Bad Gastein, Austria</td>
 <td>Abano Terme, Italy</td>
 <td>Abano Terme, Italy</td>
@@ -4811,7 +4811,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Abano Terme, Italy</td>
 <td>Bad Ragaz, Switzerland</td>
 <td>Bad Ragaz, Switzerland</td>
@@ -4841,7 +4841,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Bad Ragaz, Switzerland</td>
 <td>Leukerbad, Switzerland</td>
 <td>Leukerbad, Switzerland</td>
@@ -4871,7 +4871,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td>Leukerbad, Switzerland</td>
 <td> </td>
 <td> </td>
@@ -4901,7 +4901,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4931,7 +4931,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -4961,7 +4961,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Wellness treatment and SPA</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -5021,7 +5021,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Saint Petersburg, Russia</td>
 <td>Saint Petersburg, Russia</td>
 <td>Saint Petersburg, Russia</td>
@@ -5051,7 +5051,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Goa, India</td>
 <td>Goa, India</td>
 <td>Goa, India</td>
@@ -5081,7 +5081,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Belek, Turkey</td>
 <td>Belek, Turkey</td>
 <td>Ayia Napa, Cyprus</td>
@@ -5111,7 +5111,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Rimini, Italy</td>
 <td>Rimini, Italy</td>
 <td>Belek, Turkey</td>
@@ -5141,7 +5141,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
 <td>Rimini, Italy</td>
@@ -5171,7 +5171,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Pattaya, Thailand</td>
@@ -5201,7 +5201,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
 <td>Bali, Indonesia</td>
@@ -5231,7 +5231,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Dead Sea, Israel</td>
@@ -5261,7 +5261,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Karlovy Vary, Czech Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
@@ -5291,7 +5291,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Hammamet, Tunisia</td>
 <td>Hammamet, Tunisia</td>
 <td>Karlovy Vary, Czech Republic</td>
@@ -5321,7 +5321,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
 <td>Hammamet, Tunisia</td>
@@ -5351,7 +5351,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Costa Brava, Spain</td>
@@ -5381,7 +5381,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Loutraki, Greece</td>
 <td>Loutraki, Greece</td>
 <td>Vienna, Austria</td>
@@ -5411,7 +5411,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Limassol, Cyprus</td>
@@ -5441,7 +5441,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Paphos, Cyprus</td>
 <td>Paphos, Cyprus</td>
 <td>Loutraki, Greece</td>
@@ -5471,7 +5471,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Zell am See, Austria</td>
 <td>Zell am See, Austria</td>
 <td>Larnaca, Cyprus</td>
@@ -5501,7 +5501,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Paphos, Cyprus</td>
@@ -5531,7 +5531,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Florence, Italy</td>
 <td>Florence, Italy</td>
 <td>Zell am See, Austria</td>
@@ -5561,7 +5561,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Rome, Italy</td>
 <td>Rome, Italy</td>
 <td>Hikkaduwa, Sri Lanka</td>
@@ -5591,7 +5591,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Prague, Czech Republic</td>
 <td>Prague, Czech Republic</td>
 <td>Florence, Italy</td>
@@ -5621,7 +5621,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Lake Heviz, Hungary</td>
 <td>Lake Heviz, Hungary</td>
 <td>Rome, Italy</td>
@@ -5651,7 +5651,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Lake Balaton, Hungary</td>
 <td>Phuket, Thailand</td>
 <td>Prague, Czech Republic</td>
@@ -5681,7 +5681,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Phuket, Thailand</td>
 <td>Milan, Italy</td>
 <td>Lake Heviz, Hungary</td>
@@ -5711,7 +5711,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Milan, Italy</td>
 <td>Marianske Lazne, Czech Republic</td>
 <td>Milan, Italy</td>
@@ -5741,7 +5741,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Marianske Lazne, Czech Republic</td>
 <td>Madrid, Spain</td>
 <td>Marianske Lazne, Czech Republic</td>
@@ -5771,7 +5771,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Madrid, Spain</td>
 <td>London, Great Britain</td>
 <td>Madrid, Spain</td>
@@ -5801,7 +5801,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>London, Great Britain</td>
 <td>Cancun, Mxico</td>
 <td>London, Great Britain</td>
@@ -5831,7 +5831,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Cancun, Mxico</td>
 <td>Canillo, Andorra</td>
 <td>Cancun, Mxico</td>
@@ -5861,7 +5861,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Canillo, Andorra</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Canillo, Andorra</td>
@@ -5891,7 +5891,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Harrachov, Czech Republic</td>
 <td>Kalutara, Sri Lanka</td>
@@ -5921,7 +5921,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Harrachov, Czech Republic</td>
 <td>Venice, Italy</td>
 <td>Harrachov, Czech Republic</td>
@@ -5951,7 +5951,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Venice, Italy</td>
 <td>Budapest, Hungary</td>
 <td>Venice, Italy</td>
@@ -5981,7 +5981,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Budapest, Hungary</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Budapest, Hungary</td>
@@ -6011,7 +6011,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -6041,7 +6041,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Bentota, Sri Lanka</td>
 <td>Barcelona, ​​Spain</td>
 <td>Bentota, Sri Lanka</td>
@@ -6071,7 +6071,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Barcelona, ​​Spain</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Barcelona, ​​Spain</td>
@@ -6101,7 +6101,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Amsterdam, Netherlands</td>
 <td>Andorra la Vella, Andorra</td>
@@ -6131,7 +6131,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Amsterdam, Netherlands</td>
 <td>Aqaba, Jordan</td>
 <td>Amsterdam, Netherlands</td>
@@ -6161,7 +6161,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Aqaba, Jordan</td>
 <td>Abano Terme, Italy</td>
 <td>Aqaba, Jordan</td>
@@ -6191,7 +6191,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td>Abano Terme, Italy</td>
 <td> </td>
 <td>Abano Terme, Italy</td>
@@ -6221,7 +6221,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6251,7 +6251,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6281,7 +6281,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6311,7 +6311,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6341,7 +6341,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6371,7 +6371,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6401,7 +6401,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6431,7 +6431,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6461,7 +6461,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6491,7 +6491,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6521,7 +6521,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6551,7 +6551,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6581,7 +6581,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6611,7 +6611,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6641,7 +6641,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Interesting excursions</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -6701,7 +6701,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Belek, Turkey</td>
@@ -6731,7 +6731,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -6761,7 +6761,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Bali, Indonesia</td>
@@ -6791,7 +6791,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Paphos, Cyprus</td>
 <td>Paphos, Cyprus</td>
 <td>Larnaca, Cyprus</td>
@@ -6821,7 +6821,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
 <td>Paphos, Cyprus</td>
@@ -6851,7 +6851,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Phuket, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Fujairah, UAE</td>
@@ -6881,7 +6881,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Malapascua, Philippines</td>
 <td>Malapascua, Philippines</td>
 <td>Malapascua, Philippines</td>
@@ -6911,7 +6911,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Palau, Oceania</td>
 <td>Palau, Oceania</td>
 <td>Palau, Oceania</td>
@@ -6941,7 +6941,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Riviera Maya, Mexico</td>
 <td>Riviera Maya, Mexico</td>
 <td>Galapagos, Ecuador</td>
@@ -6971,7 +6971,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Galapagos, Ecuador</td>
 <td>Galapagos, Ecuador</td>
 <td>Silfra Gap, Iceland</td>
@@ -7001,7 +7001,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Silfra Gap, Iceland</td>
 <td>Silfra Gap, Iceland</td>
 <td>Red Sea</td>
@@ -7031,7 +7031,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Similan islands, Thailand</td>
 <td>Similan islands, Thailand</td>
 <td>Similan islands, Thailand</td>
@@ -7061,7 +7061,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Maldives</td>
 <td>Maldives</td>
 <td>Maldives</td>
@@ -7091,7 +7091,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Diving</td>
 <td>Bahamas</td>
 <td>Bahamas</td>
 <td>Bahamas</td>
@@ -7151,7 +7151,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Cervinia, Italy</td>
 <td>Cervinia, Italy</td>
 <td>Cervinia, Italy</td>
@@ -7181,7 +7181,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Colorado, USA</td>
 <td>Colorado, USA</td>
 <td>Colorado, USA</td>
@@ -7211,7 +7211,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Verbier, Switzerland</td>
 <td>Verbier, Switzerland</td>
 <td>Verbier, Switzerland</td>
@@ -7241,7 +7241,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Chamonix, France</td>
 <td>Chamonix, France</td>
 <td>Chamonix, France</td>
@@ -7271,7 +7271,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Mammoth Mountain, USA</td>
 <td>Mammoth Mountain, USA</td>
 <td>Mammoth Mountain, USA</td>
@@ -7301,7 +7301,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>California, USA</td>
 <td>California, USA</td>
 <td>California, USA</td>
@@ -7331,7 +7331,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Whistler, Canada</td>
 <td>Whistler, Canada</td>
 <td>Whistler, Canada</td>
@@ -7361,7 +7361,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Washington, USA</td>
 <td>Washington, USA</td>
 <td>Washington, USA</td>
@@ -7391,7 +7391,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Courchevel, France</td>
 <td>Courchevel, France</td>
 <td>Courchevel, France</td>
@@ -7421,7 +7421,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Kitzbuehel, Austria</td>
 <td>Kitzbuehel, Austria</td>
 <td>Kitzbuehel, Austria</td>
@@ -7451,7 +7451,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Val-d&#39;Isère, France</td>
 <td>Val-d&#39;Isère, France</td>
 <td>Val-d&#39;Isère, France</td>
@@ -7481,7 +7481,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Ischgl, Austria</td>
 <td>Ischgl, Austria</td>
 <td>Ischgl, Austria</td>
@@ -7511,7 +7511,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Megève, France</td>
 <td>Megève, France</td>
 <td>Megève, France</td>
@@ -7541,7 +7541,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Gstaad, Switzerland</td>
 <td>Gstaad, Switzerland</td>
 <td>Gstaad, Switzerland</td>
@@ -7571,7 +7571,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Val Thorens, France</td>
 <td>Val Thorens, France</td>
 <td>Val Thorens, France</td>
@@ -7601,7 +7601,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Courmayeur, Italy</td>
 <td>Courmayeur, Italy</td>
 <td>Courmayeur, Italy</td>
@@ -7631,7 +7631,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Zermatt, Switzerland</td>
 <td>Zermatt, Switzerland</td>
 <td>Zermatt, Switzerland</td>
@@ -7661,7 +7661,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Méribel, France</td>
 <td>Méribel, France</td>
 <td>Méribel, France</td>
@@ -7691,7 +7691,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>St. Moritz, Switzerland</td>
 <td>St. Moritz, Switzerland</td>
 <td>St. Moritz, Switzerland</td>
@@ -7721,7 +7721,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Hintertux, Austria</td>
 <td>Hintertux, Austria</td>
 <td>Hintertux, Austria</td>
@@ -7751,7 +7751,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Kaprun, Austria</td>
 <td>Kaprun, Austria</td>
 <td>Kaprun, Austria</td>
@@ -7781,7 +7781,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Les Deux Alpes, France</td>
 <td>Les Deux Alpes, France</td>
 <td>Les Deux Alpes, France</td>
@@ -7811,7 +7811,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Krasnaya Polyana, Russia</td>
 <td>Krasnaya Polyana, Russia</td>
 <td>Krasnaya Polyana, Russia</td>
@@ -7841,7 +7841,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Bansko, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
@@ -7871,7 +7871,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Borovets, Bulgaria</td>
 <td>Borovets, Bulgaria</td>
 <td>Borovets, Bulgaria</td>
@@ -7901,7 +7901,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Zell am See, Austria</td>
 <td>Zell am See, Austria</td>
 <td>Zell am See, Austria</td>
@@ -7931,7 +7931,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>St. Anton, Austria</td>
 <td>St. Anton, Austria</td>
 <td>St. Anton, Austria</td>
@@ -7961,7 +7961,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Ordino, Andorra</td>
 <td>Ordino, Andorra</td>
 <td>Ordino, Andorra</td>
@@ -7991,7 +7991,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Lech, Austria</td>
 <td>Lech, Austria</td>
 <td>Lech, Austria</td>
@@ -8021,7 +8021,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
 <td>Canillo, Andorra</td>
@@ -8051,7 +8051,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Innsbruck, Austria</td>
 <td>Innsbruck, Austria</td>
 <td>Innsbruck, Austria</td>
@@ -8081,7 +8081,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Sölden, Austria</td>
 <td>Sölden, Austria</td>
 <td>Sölden, Austria</td>
@@ -8111,7 +8111,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Seefeld, Austria</td>
 <td>Seefeld, Austria</td>
 <td>Seefeld, Austria</td>
@@ -8141,7 +8141,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Harrachov, Czech Republic</td>
 <td>Harrachov, Czech Republic</td>
 <td>Harrachov, Czech Republic</td>
@@ -8171,7 +8171,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Bad Gastein, Austria</td>
 <td>Bad Gastein, Austria</td>
 <td>Bad Gastein, Austria</td>
@@ -8201,7 +8201,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Arosa, Switzerland</td>
 <td>Arosa, Switzerland</td>
 <td>Arosa, Switzerland</td>
@@ -8231,7 +8231,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Arinsal, Andorra</td>
 <td>Arinsal, Andorra</td>
 <td>Arinsal, Andorra</td>
@@ -8261,7 +8261,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Skiing and snowboarding</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
@@ -8321,7 +8321,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Belek, Turkey</td>
 <td>Belek, Turkey</td>
 <td>Belek, Turkey</td>
@@ -8351,7 +8351,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -8381,7 +8381,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
@@ -8411,7 +8411,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Tenerife, Spain</td>
 <td>Tenerife, Spain</td>
 <td>Tenerife, Spain</td>
@@ -8441,7 +8441,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
@@ -8471,7 +8471,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Paphos, Cyprus</td>
 <td>Paphos, Cyprus</td>
 <td>Paphos, Cyprus</td>
@@ -8501,7 +8501,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
@@ -8531,7 +8531,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
@@ -8561,7 +8561,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Phuket, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Milan, Italy</td>
@@ -8591,7 +8591,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Milan, Italy</td>
 <td>Milan, Italy</td>
 <td>London, Great Britain</td>
@@ -8621,7 +8621,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>London, Great Britain</td>
 <td>London, Great Britain</td>
 <td>Cancun, Mxico</td>
@@ -8651,7 +8651,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
 <td>Dubai, UAE</td>
@@ -8681,7 +8681,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Dubai, UAE</td>
 <td>Dubai, UAE</td>
 <td>Venice, Italy</td>
@@ -8711,7 +8711,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Venice, Italy</td>
 <td>Venice, Italy</td>
 <td>Paris, France</td>
@@ -8741,7 +8741,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Paris, France</td>
 <td>Paris, France</td>
 <td>New York, USA</td>
@@ -8771,7 +8771,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>New York, USA</td>
 <td>New York, USA</td>
 <td>Kudadoo, Maldives</td>
@@ -8801,7 +8801,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Kudadoo, Maldives</td>
 <td>Kudadoo, Maldives</td>
 <td>Las Vegas, New York</td>
@@ -8831,7 +8831,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td>Las Vegas, New York</td>
 <td>Las Vegas, New York</td>
 <td> </td>
@@ -8861,7 +8861,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -8891,7 +8891,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -8921,7 +8921,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -8951,7 +8951,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -8981,7 +8981,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9011,7 +9011,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9041,7 +9041,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9071,7 +9071,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9101,7 +9101,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9131,7 +9131,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9161,7 +9161,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9191,7 +9191,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9221,7 +9221,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Luxury and prestige</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -9281,7 +9281,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Bansko, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
 <td>Ayia Napa, Cyprus</td>
@@ -9311,7 +9311,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Borovets, Bulgaria</td>
 <td>Borovets, Bulgaria</td>
 <td>Bansko, Bulgaria</td>
@@ -9341,7 +9341,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Belek, Turkey</td>
 <td>Belek, Turkey</td>
 <td>Borovets, Bulgaria</td>
@@ -9371,7 +9371,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Belek, Turkey</td>
@@ -9401,7 +9401,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -9431,7 +9431,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Hainan, China</td>
@@ -9461,7 +9461,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Tenerife, Spain</td>
 <td>Tenerife, Spain</td>
 <td>Bali, Indonesia</td>
@@ -9491,7 +9491,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Hammamet, Tunisia</td>
 <td>Hammamet, Tunisia</td>
 <td>Tenerife, Spain</td>
@@ -9521,7 +9521,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Costa Brava, Spain</td>
 <td>Costa Brava, Spain</td>
 <td>Hammamet, Tunisia</td>
@@ -9551,7 +9551,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Limassol, Cyprus</td>
 <td>Limassol, Cyprus</td>
 <td>Costa Brava, Spain</td>
@@ -9581,7 +9581,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Larnaca, Cyprus</td>
 <td>Larnaca, Cyprus</td>
 <td>Vienna, Austria</td>
@@ -9611,7 +9611,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Sharjah, UAE</td>
 <td>Sharjah, UAE</td>
 <td>Limassol, Cyprus</td>
@@ -9641,7 +9641,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
 <td>Larnaca, Cyprus</td>
@@ -9671,7 +9671,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Rome, Italy</td>
 <td>Rome, Italy</td>
 <td>Sharjah, UAE</td>
@@ -9701,7 +9701,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Prague, Czech Republic</td>
 <td>Prague, Czech Republic</td>
 <td>Fujairah, UAE</td>
@@ -9731,7 +9731,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Lake Balaton, Hungary</td>
 <td>Koh Samui, Thailand</td>
 <td>Rome, Italy</td>
@@ -9761,7 +9761,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Koh Samui, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Prague, Czech Republic</td>
@@ -9791,7 +9791,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Phuket, Thailand</td>
 <td>Nha Trang, Vietnam</td>
 <td>Koh Samui, Thailand</td>
@@ -9821,7 +9821,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Nha Trang, Vietnam</td>
 <td>Lech, Austria</td>
 <td>Nha Trang, Vietnam</td>
@@ -9851,7 +9851,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Lech, Austria</td>
 <td>Canillo, Andorra</td>
 <td>Lech, Austria</td>
@@ -9881,7 +9881,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Canillo, Andorra</td>
 <td>Dubai, UAE</td>
 <td>Canillo, Andorra</td>
@@ -9911,7 +9911,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Dubai, UAE</td>
 <td>Harrachov, Czech Republic</td>
 <td>Dubai, UAE</td>
@@ -9941,7 +9941,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Harrachov, Czech Republic</td>
 <td>Venice, Italy</td>
 <td>Harrachov, Czech Republic</td>
@@ -9971,7 +9971,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Venice, Italy</td>
 <td>Budapest, Hungary</td>
 <td>Venice, Italy</td>
@@ -10001,7 +10001,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Budapest, Hungary</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Budapest, Hungary</td>
@@ -10031,7 +10031,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -10061,7 +10061,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Bentota, Sri Lanka</td>
 <td>Barcelona, ​​Spain</td>
 <td>Bentota, Sri Lanka</td>
@@ -10091,7 +10091,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Barcelona, ​​Spain</td>
 <td>Bad Gastein, Austria</td>
 <td>Barcelona, ​​Spain</td>
@@ -10121,7 +10121,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Bad Gastein, Austria</td>
 <td>Arosa, Switzerland</td>
 <td>Bad Gastein, Austria</td>
@@ -10151,7 +10151,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Arosa, Switzerland</td>
 <td>Arinsal, Andorra</td>
 <td>Arosa, Switzerland</td>
@@ -10181,7 +10181,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Arinsal, Andorra</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Arinsal, Andorra</td>
@@ -10211,7 +10211,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Andorra la Vella, Andorra</td>
 <td>Aqaba, Jordan</td>
 <td>Andorra la Vella, Andorra</td>
@@ -10241,7 +10241,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td>Aqaba, Jordan</td>
 <td> </td>
 <td>Aqaba, Jordan</td>
@@ -10271,7 +10271,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10301,7 +10301,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10331,7 +10331,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10361,7 +10361,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10391,7 +10391,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10421,7 +10421,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10451,7 +10451,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Vacation with children</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -10511,7 +10511,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -10541,7 +10541,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
@@ -10571,7 +10571,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
@@ -10601,7 +10601,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
@@ -10631,7 +10631,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
 <td>Dead Sea, Israel</td>
@@ -10661,7 +10661,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
@@ -10691,7 +10691,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Sharjah, UAE</td>
 <td>Sharjah, UAE</td>
 <td>Tenerife, Spain</td>
@@ -10721,7 +10721,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Sharjah, UAE</td>
@@ -10751,7 +10751,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Fujairah, UAE</td>
 <td>Fujairah, UAE</td>
 <td>Hikkaduwa, Sri Lanka</td>
@@ -10781,7 +10781,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
@@ -10811,7 +10811,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Phuket, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Nha Trang, Vietnam</td>
@@ -10841,7 +10841,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Nha Trang, Vietnam</td>
 <td>Nha Trang, Vietnam</td>
 <td>Cancun, Mxico</td>
@@ -10871,7 +10871,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
 <td>Kalutara, Sri Lanka</td>
@@ -10901,7 +10901,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -10931,7 +10931,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
@@ -10961,7 +10961,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Bentota, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
 <td>Aqaba, Jordan</td>
@@ -10991,7 +10991,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td>Aqaba, Jordan</td>
 <td>Aqaba, Jordan</td>
 <td> </td>
@@ -11021,7 +11021,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11051,7 +11051,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11081,7 +11081,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11111,7 +11111,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11141,7 +11141,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11171,7 +11171,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11201,7 +11201,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11231,7 +11231,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11261,7 +11261,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11291,7 +11291,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11321,7 +11321,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11351,7 +11351,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11381,7 +11381,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11411,7 +11411,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11441,7 +11441,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11471,7 +11471,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11501,7 +11501,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11531,7 +11531,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11561,7 +11561,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11591,7 +11591,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11621,7 +11621,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11651,7 +11651,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11681,7 +11681,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11711,7 +11711,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11741,7 +11741,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Swimsuit season</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -11801,7 +11801,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
 <td>Punta Cana, Dominican Republic</td>
@@ -11831,7 +11831,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
 <td>Pattaya, Thailand</td>
@@ -11861,7 +11861,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
 <td>Hainan, China</td>
@@ -11891,7 +11891,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
 <td>Bali, Indonesia</td>
@@ -11921,7 +11921,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
 <td>Puerto Plata, Dominican Republic</td>
@@ -11951,7 +11951,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Hikkaduwa, Sri Lanka</td>
 <td>Hikkaduwa, Sri Lanka</td>
@@ -11981,7 +11981,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
 <td>Koh Samui, Thailand</td>
@@ -12011,7 +12011,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Phuket, Thailand</td>
 <td>Phuket, Thailand</td>
 <td>Nha Trang, Vietnam</td>
@@ -12041,7 +12041,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Nha Trang, Vietnam</td>
 <td>Nha Trang, Vietnam</td>
 <td>Cancun, Mxico</td>
@@ -12071,7 +12071,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Cancun, Mxico</td>
 <td>Cancun, Mxico</td>
 <td>Kalutara, Sri Lanka</td>
@@ -12101,7 +12101,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Kalutara, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
@@ -12131,7 +12131,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Beruwella, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
@@ -12161,7 +12161,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td>Bentota, Sri Lanka</td>
 <td>Bentota, Sri Lanka</td>
 <td> </td>
@@ -12191,7 +12191,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Exotic</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -12251,7 +12251,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Bundoran, Ireland</td>
 <td>Bundoran, Ireland</td>
 <td>Bundoran, Ireland</td>
@@ -12281,7 +12281,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Huntington Beach, USA</td>
 <td>Huntington Beach, USA</td>
 <td>Huntington Beach, USA</td>
@@ -12311,7 +12311,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>San Clemente, USA</td>
 <td>San Clemente, USA</td>
 <td>San Clemente, USA</td>
@@ -12341,7 +12341,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Taghazout, Morocco</td>
 <td>Taghazout, Morocco</td>
 <td>Taghazout, Morocco</td>
@@ -12371,7 +12371,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Teahupo&#39;o, Tahiti, French Polynesia</td>
 <td>Teahupo&#39;o, Tahiti, French Polynesia</td>
 <td>Teahupo&#39;o, Tahiti, French Polynesia</td>
@@ -12401,7 +12401,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Tavarua, Fiji</td>
 <td>Tavarua, Fiji</td>
 <td>Tavarua, Fiji</td>
@@ -12431,7 +12431,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Biarritz, France</td>
 <td>Biarritz, France</td>
 <td>Biarritz, France</td>
@@ -12461,7 +12461,7 @@ export default function Home() {
 <td> </td>
 </tr>
 <tr>
-<td> </td>
+<td>Surfing</td>
 <td>Hanalei Bay, Hawaii, USA</td>
 <td>Hanalei Bay, Hawaii, USA</td>
 <td>Hanalei Bay, Hawaii, USA</td>
@@ -12476,7 +12476,7 @@ export default function Home() {
 <td> </td>
 </tr>
 </tbody></table>
-      <footer className={styles.footer}>
+     <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
