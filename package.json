@@ -11,6 +11,7 @@
     "next": "10.x",
     "react": "16.x",
     "react-csv-to-table": "0.0.4",
-    "react-dom": "16.x"
+    "react-dom": "16.x",
+    "react-papaparse": "^3.14.0"
   }
 }
