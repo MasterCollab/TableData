@@ -12,18 +12,18 @@ export default function Home() {
       <h1>Countries</h1>
       <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Countries</th>
-<th title="Field #2">January</th>
-<th title="Field #3">February</th>
-<th title="Field #4">March</th>
-<th title="Field #5">April</th>
+<th title="Field #2">Jan</th>
+<th title="Field #3">Feb</th>
+<th title="Field #4">Mar</th>
+<th title="Field #5">Apr</th>
 <th title="Field #6">May</th>
-<th title="Field #7">June</th>
-<th title="Field #8">July</th>
-<th title="Field #9">August</th>
-<th title="Field #10">September</th>
-<th title="Field #11">October</th>
-<th title="Field #12">November</th>
-<th title="Field #13">December</th>
+<th title="Field #7">Jun</th>
+<th title="Field #8">Jul</th>
+<th title="Field #9">Aug</th>
+<th title="Field #10">Sep</th>
+<th title="Field #11">Oct</th>
+<th title="Field #12">Nov</th>
+<th title="Field #13">Dec</th>
 </tr></thead>
 <tbody><tr>
 
@@ -42,18 +42,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Abano Terme, ITA</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Abano Terme, ITA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -72,18 +102,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Agadir, MAR</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Agadir, MAR</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Agadir, MAR</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Agadir, MAR</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -102,18 +222,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Alanya, TUR</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Sports and outdoor activities, <br/>Good shopping, <br/>Vacation with children, <br/>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Alanya, TUR</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Alanya, TUR</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Alanya, TUR</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Alanya, TUR</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Alanya, TUR</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -132,18 +402,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Algarve, PRT</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Algarve, PRT</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Algarve, PRT</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Algarve, PRT</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Algarve, PRT</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Algarve, PRT</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -162,18 +582,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Amsterdam, NLD</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Interesting excursions</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Amsterdam, NLD</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -192,18 +642,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Andorra la Vella, AND</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Andorra la Vella, AND</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Andorra la Vella, AND</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Andorra la Vella, AND</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Andorra la Vella, AND</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -222,18 +792,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Aqaba, JOR</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Aqaba, JOR</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Aqaba, JOR</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Aqaba, JOR</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -252,18 +912,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Arinsal, AND</td>
-<td>Silence and solitude, <br/>Good shopping, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Good shopping, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Arinsal, AND</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+
+
+
+
+
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Arinsal, AND</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Arinsal, AND</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -282,18 +1032,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Arosa, CHE</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Arosa, CHE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -312,18 +1092,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Arugam Bay, LKA</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -342,17 +1122,167 @@ export default function Home() {
 </tr>
 <tr>
 <td>Ayia Napa, CYP</td>
-<td>-</td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Diving, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Diving, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ayia Napa, CYP</td>
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ayia Napa, CYP</td>
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ayia Napa, CYP</td>
+
+
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ayia Napa, CYP</td>
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ayia Napa, CYP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
 
 </tr>
 <tr>
@@ -372,18 +1302,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Bad Gastein, AUT</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bad Gastein, AUT</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bad Gastein, AUT</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+
+
+
+
+
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bad Gastein, AUT</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bad Gastein, AUT</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -432,18 +1482,318 @@ export default function Home() {
 </tr>
 <tr>
 <td>Bali, IDN</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Diving, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Diving, <br/>Exotic, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Diving, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Vacation with children</td>
-<td>Exotic, <br/>Swimsuit season, <br/>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic, <br/>Luxury and prestige, <br/>Active nightlife, <br/>Interesting excursions, <br/>Surfing, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic, <br/>Luxury and prestige, <br/>Active nightlife, <br/>Interesting excursions, <br/>Surfing</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic, <br/>Luxury and prestige, <br/>Active nightlife, <br/>Interesting excursions, <br/>Surfing</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic, <br/>Luxury and prestige, <br/>Active nightlife, <br/>Interesting excursions, <br/>Surfing</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic, <br/>Luxury and prestige, <br/>Active nightlife, <br/>Interesting excursions, <br/>Surfing</td>
-<td>Luxury and prestige, <br/>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season, <br/>Sports and outdoor activities, <br/>Diving, <br/>Exotic, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Exotic, <br/>Sports and outdoor activities, <br/>Active nightlife</td>
-<td>Wellness treatment and SPA, <br/>Diving, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Exotic, <br/>Sports and outdoor activities, <br/>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Surfing</td>
+<td>Surfing</td>
+<td>Surfing</td>
+<td>Surfing</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bali, IDN</td>
+
+
+
+
+<td>Surfing</td>
+
+
+
+
+
+
+
 </tr>
 <tr>
 
@@ -462,18 +1812,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Bansko, BGR</td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bansko, BGR</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bansko, BGR</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+
 </tr>
 <tr>
 
@@ -492,18 +1902,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Barcelona, ESP</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children, <br/>Active nightlife</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Barcelona, ESP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Barcelona, ESP</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Barcelona, ESP</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
 </tr>
 <tr>
 
@@ -522,18 +2022,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Becici, MNE</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Becici, MNE</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Becici, MNE</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -552,18 +2112,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Belek, TUR</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Diving, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Diving, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Diving, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Belek, TUR</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Belek, TUR</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Belek, TUR</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Belek, TUR</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Belek, TUR</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -582,18 +2292,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Bentota, LKA</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Swimsuit season, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic</td>
-<td>Silence and solitude, <br/>Swimsuit season, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bentota, LKA</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bentota, LKA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bentota, LKA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bentota, LKA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Bentota, LKA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -612,18 +2472,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Beruwella, LKA</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Beruwella, LKA</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Beruwella, LKA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Beruwella, LKA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Beruwella, LKA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Beruwella, LKA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -646,13 +2656,13 @@ export default function Home() {
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Diving</td>
 </tr>
 <tr>
@@ -678,12 +2688,42 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>Surfing, <br/>Sports and outdoor activities</td>
-<td>Surfing, <br/>Sports and outdoor activities</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
+<td>Surfing</td>
+<td>Surfing</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Biarritz, FRA</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -702,18 +2742,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Bonaire, NLD</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -732,18 +2772,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Borovets, BGR</td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Borovets, BGR</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Borovets, BGR</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+
 </tr>
 <tr>
 
@@ -762,18 +2862,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Budapest, HUN</td>
-<td>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Budapest, HUN</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Budapest, HUN</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -792,18 +2952,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Budva, MNE</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Active nightlife, <br/>Interesting excursions</td>
-<td>Sports and outdoor activities, <br/>Active nightlife, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Budva, MNE</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Budva, MNE</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Budva, MNE</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -856,12 +3106,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -882,18 +3132,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Cancun, MEX</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Exotic, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Exotic</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Exotic</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Exotic</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Cancun, MEX</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -912,18 +3342,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Canillo, AND</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+
+
+
+
+
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Canillo, AND</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Canillo, AND</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+
+
+
+
+
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Canillo, AND</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Canillo, AND</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Canillo, AND</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -942,9 +3522,9 @@ export default function Home() {
 </tr>
 <tr>
 <td>Cannes, FRA</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
@@ -953,7 +3533,7 @@ export default function Home() {
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
+
 </tr>
 <tr>
 
@@ -972,18 +3552,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Cape Town, ZAF</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -1002,18 +3582,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Cerro Catedral, ARG</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>Skiing and snowboarding</td>
+
+
 </tr>
 <tr>
 
@@ -1036,12 +3616,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -1066,13 +3646,13 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -1096,12 +3676,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -1122,18 +3702,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Comino, MLT</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>- </td>
+
+
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -1152,18 +3732,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Corfu, GRC</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Corfu, GRC</td>
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Corfu, GRC</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Corfu, GRC</td>
+
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Corfu, GRC</td>
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
 </tr>
 <tr>
 
@@ -1182,18 +3882,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Coronet Peak, NZL</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -1212,18 +3912,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Costa Brava, ESP</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Good shopping</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Brava, ESP</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Brava, ESP</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Brava, ESP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Brava, ESP</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Brava, ESP</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -1242,18 +4092,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Costa del Sol, ESP</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa del Sol, ESP</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa del Sol, ESP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa del Sol, ESP</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa del Sol, ESP</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
 </tr>
 <tr>
 
@@ -1272,18 +4242,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Costa Dorada, ESP</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Good shopping, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Costa Dorada, ESP</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
 </tr>
 <tr>
 
@@ -1302,18 +4452,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Côte d&#39;Azur, FRA</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -1336,13 +4486,13 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -1366,12 +4516,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -1392,18 +4542,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Crete, GRC</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Crete, GRC</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -1422,10 +4752,10 @@ export default function Home() {
 </tr>
 <tr>
 <td>Curaçao, NLD</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
@@ -1452,18 +4782,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Dead Sea, ISR</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dead Sea, ISR</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dead Sea, ISR</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dead Sea, ISR</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -1482,18 +4902,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Debrecen, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Debrecen, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -1512,18 +4962,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Djerba, TUN</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Silence and solitude, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Djerba, TUN</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Djerba, TUN</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Djerba, TUN</td>
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Djerba, TUN</td>
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -1542,18 +5112,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Dubai, ARE</td>
-<td>Silence and solitude, <br/>Good shopping, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Good shopping</td>
-<td>Good shopping, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Good shopping, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Good shopping, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubai, ARE</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubai, ARE</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubai, ARE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubai, ARE</td>
+
+
+
+
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -1572,18 +5262,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Dubrovnik, HRV</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Sports and outdoor activities</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Sports and outdoor activities</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubrovnik, HRV</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubrovnik, HRV</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubrovnik, HRV</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Dubrovnik, HRV</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -1602,18 +5412,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Essentuki, RUS</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Essentuki, RUS</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -1692,18 +5532,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Frantiskovy Lazne, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Frantiskovy Lazne, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -1722,18 +5592,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Fujairah, ARE</td>
-<td>Silence and solitude, <br/>Good shopping, <br/>Diving, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Diving, <br/>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Good shopping, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Diving, <br/>Luxury and prestige, <br/>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Fujairah, ARE</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Fujairah, ARE</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+
+
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Fujairah, ARE</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Fujairah, ARE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Fujairah, ARE</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -1752,18 +5772,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Gagra, GEO</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Gagra, GEO</td>
+
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Gagra, GEO</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Gagra, GEO</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Gagra, GEO</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -1787,12 +5927,12 @@ export default function Home() {
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Diving</td>
 </tr>
 <tr>
@@ -1812,18 +5952,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Geneva, CHE</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -1842,18 +5982,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Goa, IND</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Goa, IND</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Goa, IND</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Goa, IND</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Goa, IND</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -1872,18 +6132,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Golden Sands, BGR</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Golden Sands, BGR</td>
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Golden Sands, BGR</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -1902,18 +6222,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Great Barrier Reef, AUS</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -1936,13 +6256,13 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -1962,18 +6282,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Hainan, CHN</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Wellness treatment and SPA, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
-<td>Exotic, <br/>Good shopping, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hainan, CHN</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -1992,18 +6492,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Hajduszoboszlo, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hajduszoboszlo, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -2022,18 +6552,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Hammamet, TUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Vacation with children, <br/>Wellness treatment and SPA, <br/>Swimsuit season, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Interesting excursions, <br/>Vacation with children, <br/>Wellness treatment and SPA, <br/>Silence and solitude</td>
-<td>-</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hammamet, TUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hammamet, TUN</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hammamet, TUN</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hammamet, TUN</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -2057,9 +6707,9 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
@@ -2082,18 +6732,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Harkany, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Harkany, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -2112,18 +6792,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Harrachov, CZE</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Harrachov, CZE</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Harrachov, CZE</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Harrachov, CZE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -2142,18 +6912,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Herceg Novi, MNE</td>
-<td>- </td>
-<td>- </td>
 
-<td>Silence and solitude, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Interesting excursions</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Herceg Novi, MNE</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Herceg Novi, MNE</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -2172,18 +7002,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Hikkaduwa, LKA</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Exotic</td>
-<td>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Exotic</td>
-<td>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Exotic</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hikkaduwa, LKA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hikkaduwa, LKA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Hikkaduwa, LKA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -2232,18 +7152,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Holguin, CUB</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Exotic, <br/>Swimsuit season</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Holguin, CUB</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Holguin, CUB</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Holguin, CUB</td>
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Holguin, CUB</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -2292,18 +7332,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Ibiza, ESP</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Diving</td>
-<td>Diving, <br/>Active nightlife, <br/>Good shopping, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities</td>
-<td>Diving, <br/>Active nightlife, <br/>Good shopping, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities</td>
-<td>Diving, <br/>Active nightlife, <br/>Good shopping, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities</td>
-<td>Diving, <br/>Active nightlife, <br/>Good shopping, <br/>Swimsuit season, <br/>Interesting excursions, <br/>Sports and outdoor activities</td>
-<td>Sports and outdoor activities, <br/>Good shopping, <br/>Active nightlife, <br/>Interesting excursions, <br/>Diving</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ibiza, ESP</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ibiza, ESP</td>
+
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ibiza, ESP</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ibiza, ESP</td>
+
+
+
+
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ibiza, ESP</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -2325,14 +7515,14 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -2357,11 +7547,11 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -2382,18 +7572,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Ischia, ITA</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Silence and solitude, <br/>Luxury and prestige, <br/>Wellness treatment and SPA</td>
-<td>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>Wellness treatment and SPA, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ischia, ITA</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ischia, ITA</td>
+
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ischia, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -2412,18 +7692,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Istanbul, TUR</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Istanbul, TUR</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Istanbul, TUR</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Istanbul, TUR</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Istanbul, TUR</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
 </tr>
 <tr>
 
@@ -2442,18 +7842,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Jachymov, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Jachymov, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -2472,18 +7902,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Jeffreys Bay, ZAF</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -2502,18 +7932,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Kalutara, LKA</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Interesting excursions,<br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions,<br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions,<br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Exotic</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kalutara, LKA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kalutara, LKA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kalutara, LKA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -2539,8 +8059,8 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
@@ -2562,18 +8082,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Karlovy Vary, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Karlovy Vary, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Karlovy Vary, CZE</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -2592,18 +8172,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Kislovodsk, RUS</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kislovodsk, RUS</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
 </tr>
 <tr>
 
@@ -2627,10 +8237,10 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
@@ -2652,18 +8262,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Koh Samui, THA</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Exotic, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Exotic, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Koh Samui, THA</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Koh Samui, THA</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Koh Samui, THA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Koh Samui, THA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Koh Samui, THA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -2682,18 +8442,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Kos, GRC</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kos, GRC</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kos, GRC</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
 </tr>
 <tr>
 
@@ -2712,18 +8532,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Krasnaya Polyana, RUS</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Krasnaya Polyana, RUS</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
 </tr>
 <tr>
 
@@ -2742,18 +8592,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Kudadoo, MDV</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+
+
+
+
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kudadoo, MDV</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Kudadoo, MDV</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+
+
+
+
+
+<td>Diving</td>
 </tr>
 <tr>
 
@@ -2772,18 +8682,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Lake Balaton, HUN</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Silence and solitude, <br/>Vacation with children, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Wellness treatment and SPA, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Sports and outdoor activities</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Sports and outdoor activities</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Sports and outdoor activities</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Interesting excursions, <br/>Wellness treatment and SPA, <br/>Sports and outdoor activities</td>
+<td>Silence and solitude</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Balaton, HUN</td>
+<td>Sports and outdoor activities</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Balaton, HUN</td>
+<td>Wellness treatment and SPA</td>
+
+
+
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Balaton, HUN</td>
+<td>Interesting excursions</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Balaton, HUN</td>
+<td>Vacation with children</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Balaton, HUN</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -2802,18 +8862,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Lake Heviz, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Heviz, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lake Heviz, HUN</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -2832,18 +8952,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Larnaca, CYP</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Diving, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Diving, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Diving, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Diving, <br/>Good shopping, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Diving, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Good shopping, <br/>Diving</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Good shopping, <br/>Diving</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Larnaca, CYP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -2862,18 +9162,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Las Leñas, ARG</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -2891,7 +9191,7 @@ export default function Home() {
 
 </tr>
 <tr>
-<td>Las Vegas, New York</td>
+<td>Las Vegas, USA</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
@@ -2952,18 +9252,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Lech, AUT</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Skiing and snowboarding, <br/>Vacation with children</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lech, AUT</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -2986,9 +9316,9 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
@@ -3012,8 +9342,6 @@ export default function Home() {
 </tr>
 <tr>
 <td>Leukerbad, CHE</td>
-<td>Wellness treatment and SPA, <br/>Skiing and snowboarding</td>
-<td>Wellness treatment and SPA, <br/>Skiing and snowboarding</td>
 <td>Wellness treatment and SPA</td>
 <td>Wellness treatment and SPA</td>
 <td>Wellness treatment and SPA</td>
@@ -3024,6 +9352,38 @@ export default function Home() {
 <td>Wellness treatment and SPA</td>
 <td>Wellness treatment and SPA</td>
 <td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Leukerbad, CHE</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+
+
 </tr>
 <tr>
 
@@ -3042,18 +9402,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Lido di Jesolo, ITA</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Active nightlife</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Active nightlife</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Vacation with children, <br/>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lido di Jesolo, ITA</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lido di Jesolo, ITA</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lido di Jesolo, ITA</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lido di Jesolo, ITA</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Lido di Jesolo, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -3072,18 +9582,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Limassol, CYP</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Swimsuit season, <br/>Luxury and prestige, <br/>Good shopping, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Vacation with children, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Active nightlife, <br/>Luxury and prestige</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Limassol, CYP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -3102,18 +9792,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>London, GBR</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>London, GBR</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>London, GBR</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>London, GBR</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
 </tr>
 <tr>
 
@@ -3132,18 +9912,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Loutraki, GRC</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Loutraki, GRC</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Loutraki, GRC</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -3162,18 +10002,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Mabul, MYS</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -3192,18 +10032,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Madrid, ESP</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
-<td>Good shopping, <br/>Interesting excursions</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Madrid, ESP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -3228,11 +10098,11 @@ export default function Home() {
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
 <td>Diving</td>
 </tr>
 <tr>
@@ -3252,18 +10122,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Mallorca, ESP</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Interesting excursions, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Good shopping</td>
-<td>Interesting excursions, <br/>Active nightlife, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Good shopping</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Interesting excursions, <br/>Active nightlife</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Mallorca, ESP</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Mallorca, ESP</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Mallorca, ESP</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Mallorca, ESP</td>
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Mallorca, ESP</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -3287,11 +10307,11 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -3312,18 +10332,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Marianske Lazne, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA, <br/>Interesting excursions</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marianske Lazne, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marianske Lazne, CZE</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
 </tr>
 <tr>
 
@@ -3342,18 +10422,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Marmaris, TUR</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Vacation with children, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Silence and solitude, <br/>Interesting excursions</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Marmaris, TUR</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -3372,18 +10632,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>MDV</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>Luxury and prestige, <br/>Diving</td>
-<td>Luxury and prestige, <br/>Diving</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>MDV</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>MDV</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+
+
+
+
+<td>Diving</td>
+<td>Diving</td>
 </tr>
 <tr>
 
@@ -3405,14 +10725,14 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -3435,14 +10755,14 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -3462,18 +10782,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Milan, ITA</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Luxury and prestige</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Milan, ITA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Milan, ITA</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
 </tr>
 <tr>
 
@@ -3492,18 +10872,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>New York, USA</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
-<td>Luxury and prestige, <br/>Good shopping</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>New York, USA</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
 </tr>
 <tr>
 
@@ -3522,18 +10932,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Nha Trang, VNM</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Exotic, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Nha Trang, VNM</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Nha Trang, VNM</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Nha Trang, VNM</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Nha Trang, VNM</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -3552,18 +11082,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>North Island, SYC</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
+
 </tr>
 <tr>
 
@@ -3582,18 +11112,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Ordino, AND</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ordino, AND</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Ordino, AND</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
 </tr>
 <tr>
 
@@ -3612,18 +11202,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Paphos, CYP</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Diving, <br/>Luxury and prestige</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities</td>
-<td>Diving, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Diving, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Interesting excursions</td>
-<td>Diving, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Diving, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paphos, CYP</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paphos, CYP</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paphos, CYP</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paphos, CYP</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paphos, CYP</td>
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
 </tr>
 <tr>
 
@@ -3642,18 +11382,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Paris, FRA</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
-<td>Good shopping, <br/>Luxury and prestige</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Paris, FRA</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
 </tr>
 <tr>
 
@@ -3672,18 +11442,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Pattaya, THA</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Swimsuit season, <br/>Interesting excursions</td>
-<td>Exotic, <br/>Swimsuit season, <br/>Interesting excursions</td>
-<td>Exotic, <br/>Swimsuit season, <br/>Interesting excursions</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Pattaya, THA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Pattaya, THA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Pattaya, THA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -3702,18 +11562,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Perisher, AUS</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -3732,18 +11592,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Petrovac, MNE</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
-<td>Vacation with children, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Swimsuit season, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Swimsuit season, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Swimsuit season, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Swimsuit season, <br/>Silence and solitude</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Petrovac, MNE</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Petrovac, MNE</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -3762,18 +11682,258 @@ export default function Home() {
 </tr>
 <tr>
 <td>Phuket, THA</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Diving, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Active nightlife, <br/>Diving, <br/>Exotic, <br/>Interesting excursions, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Sports and outdoor activities, <br/>Diving, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Interesting excursions, <br/>Active nightlife, <br/>Vacation with children, <br/>Exotic</td>
-<td>Sports and outdoor activities, <br/>Diving, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Interesting excursions, <br/>Active nightlife, <br/>Vacation with children, <br/>Exotic</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+
+
+
+
+
+
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Phuket, THA</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+
+
+
+
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -3796,13 +11956,13 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Surfing</td>
 </tr>
 <tr>
@@ -3826,12 +11986,12 @@ export default function Home() {
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 </tr>
@@ -3852,18 +12012,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Podebrady, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Podebrady, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -3882,18 +12072,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Portillo, CHL</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -3912,18 +12102,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Prague, CZE</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Prague, CZE</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Prague, CZE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -3942,18 +12192,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Puerto Escondido, MEX</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -3972,18 +12222,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Puerto Plata, DOM</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>Exotic, <br/>Interesting excursions, <br/>Sports and outdoor activities, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Exotic, <br/>Interesting excursions, <br/>Swimsuit season</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Puerto Plata, DOM</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Puerto Plata, DOM</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Puerto Plata, DOM</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -4002,18 +12342,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Punta Cana, DOM</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Diving, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Swimsuit season, <br/>Exotic</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Diving, <br/>Exotic, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Swimsuit season, <br/>Vacation with children</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+<td>Diving</td>
+
+
+<td>Diving</td>
+<td>Diving</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
 <td>Vacation with children</td>
-<td>-</td>
-<td>Swimsuit season, <br/>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic</td>
-<td>Swimsuit season, <br/>Diving, <br/>Luxury and prestige, <br/>Sports and outdoor activities, <br/>Vacation with children, <br/>Silence and solitude, <br/>Exotic</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Punta Cana, DOM</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+<td>Exotic</td>
+
+
+<td>Exotic</td>
+<td>Exotic</td>
 </tr>
 <tr>
 
@@ -4032,18 +12552,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Red Sea, ISR</td>
-<td>-</td>
-<td>- </td>
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
+
 </tr>
 <tr>
 
@@ -4062,18 +12582,168 @@ export default function Home() {
 </tr>
 <tr>
 <td>Rhodes, GRC</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Vacation with children, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Vacation with children, <br/>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rhodes, GRC</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rhodes, GRC</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rhodes, GRC</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rhodes, GRC</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rhodes, GRC</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
 </tr>
 <tr>
 
@@ -4092,18 +12762,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Rimini, ITA</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Swimsuit season, <br/>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
-<td>Active nightlife, <br/>Good shopping, <br/>Interesting excursions</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rimini, ITA</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rimini, ITA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rimini, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4124,14 +12884,14 @@ export default function Home() {
 <td>Riviera Maya, MEX</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
+
+
+
 <td>Diving</td>
 <td>Diving</td>
 </tr>
@@ -4152,18 +12912,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Rome, ITA</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Interesting excursions, <br/>Vacation with children</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rome, ITA</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rome, ITA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -4182,18 +13002,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Rovinj, HRV</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rovinj, HRV</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rovinj, HRV</td>
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Rovinj, HRV</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4212,18 +13122,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Saas Fee, CHE</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -4242,18 +13152,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sabi Sand Resort, ZAF</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
 </tr>
 <tr>
 
@@ -4306,11 +13216,11 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
@@ -4332,18 +13242,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>San Remo, ITA</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Interesting excursions</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Sports and outdoor activities, <br/>Active nightlife, <br/>Swimsuit season</td>
-<td>Interesting excursions, <br/>Active nightlife, <br/>Sports and outdoor activities</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>San Remo, ITA</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>San Remo, ITA</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>San Remo, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4362,18 +13362,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Santorini, GRC</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Santorini, GRC</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Santorini, GRC</td>
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
 </tr>
 <tr>
 
@@ -4392,18 +13452,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sardinia, ITA</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Luxury and prestige, <br/>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sardinia, ITA</td>
+
+
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sardinia, ITA</td>
+
+
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sardinia, ITA</td>
+
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sardinia, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4422,18 +13602,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sarvar, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sarvar, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -4452,18 +13662,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Seefeld, AUT</td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Seefeld, AUT</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
 </tr>
 <tr>
 
@@ -4482,18 +13722,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sharjah, ARE</td>
-<td>Silence and solitude, <br/>Good shopping, <br/>Vacation with children, <br/>Swimsuit season</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>Good shopping, <br/>Silence and solitude, <br/>Swimsuit season, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
-<td>Swimsuit season, <br/>Good shopping, <br/>Vacation with children, <br/>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sharjah, ARE</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sharjah, ARE</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sharjah, ARE</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
 </tr>
 <tr>
 
@@ -4512,18 +13842,198 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sicily, ITA</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Vacation with children, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Vacation with children, <br/>Good shopping, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Luxury and prestige</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Good shopping, <br/>Vacation with children</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Active nightlife, <br/>Luxury and prestige, <br/>Good shopping, <br/>Vacation with children</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+<td>Good shopping</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sicily, ITA</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
 </tr>
 <tr>
 
@@ -4576,13 +14086,13 @@ export default function Home() {
 <td>Diving</td>
 <td>Diving</td>
 <td>Diving</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
 
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Diving</td>
 </tr>
 <tr>
@@ -4602,18 +14112,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sölden, AUT</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
-<td>- </td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Active nightlife, <br/>Sports and outdoor activities, <br/>Skiing and snowboarding</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+
+
+
+
+
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sölden, AUT</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sölden, AUT</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
 </tr>
 <tr>
 
@@ -4632,18 +14202,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sorrento, ITA</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Active nightlife, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sorrento, ITA</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sorrento, ITA</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sorrento, ITA</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4665,14 +14325,14 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -4697,10 +14357,10 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
@@ -4722,18 +14382,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>St. Vlas, BGR</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Vacation with children</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Vacation with children, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>St. Vlas, BGR</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>St. Vlas, BGR</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4752,18 +14472,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sveti Stefan, MNE</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Luxury and prestige, <br/>Sports and outdoor activities</td>
-<td>Silence and solitude, <br/>Luxury and prestige, <br/>Sports and outdoor activities</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
-<td>Swimsuit season, <br/>Silence and solitude, <br/>Sports and outdoor activities, <br/>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sveti Stefan, MNE</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sveti Stefan, MNE</td>
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Sveti Stefan, MNE</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -4782,18 +14592,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Sydney, AUS</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 </tr>
 <tr>
 
@@ -4816,10 +14626,10 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
@@ -4842,18 +14652,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Tahiti, PYF</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -4872,18 +14682,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Tapolca, HUN</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Tapolca, HUN</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -4905,13 +14745,13 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 </tr>
@@ -4935,13 +14775,13 @@ export default function Home() {
 <td>Surfing</td>
 <td>Surfing</td>
 <td>Surfing</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Surfing</td>
 <td>Surfing</td>
 </tr>
@@ -4962,18 +14802,138 @@ export default function Home() {
 </tr>
 <tr>
 <td>Tenerife, ESP</td>
-<td>Active nightlife, <br/>Silence and solitude, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Luxury and prestige, <br/>Silence and solitude, <br/>Vacation with children</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Active nightlife, <br/>Vacation with children, <br/>Swimsuit season, <br/>Luxury and prestige, <br/>Silence and solitude</td>
-<td>Luxury and prestige, <br/>Vacation with children, <br/>Active nightlife, <br/>Silence and solitude</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+<td>Active nightlife</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Tenerife, ESP</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Tenerife, ESP</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Tenerife, ESP</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Tenerife, ESP</td>
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
 </tr>
 <tr>
 
@@ -4992,18 +14952,48 @@ export default function Home() {
 </tr>
 <tr>
 <td>Teplice, CZE</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
-<td>Silence and solitude, <br/>Wellness treatment and SPA</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Teplice, CZE</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
+<td>Wellness treatment and SPA</td>
 </tr>
 <tr>
 
@@ -5026,12 +15016,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -5057,11 +15047,11 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -5086,12 +15076,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -5112,18 +15102,18 @@ export default function Home() {
 </tr>
 <tr>
 <td>Valle Nevado, CHL</td>
-<td>-</td>
-<td>- </td>
-<td>- </td>
-<td>- </td>
-<td>-</td>
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
+
+
 </tr>
 <tr>
 
@@ -5142,18 +15132,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Venice, ITA</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
-<td>Interesting excursions, <br/>Luxury and prestige, <br/>Vacation with children</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Venice, ITA</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Venice, ITA</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
 </tr>
 <tr>
 
@@ -5176,13 +15226,13 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 </tr>
 <tr>
@@ -5202,18 +15252,78 @@ export default function Home() {
 </tr>
 <tr>
 <td>Vienna, AUT</td>
-<td>-</td>
-<td>-</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>Vacation with children, <br/>Interesting excursions, <br/>Silence and solitude</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>Silence and solitude, <br/>Interesting excursions, <br/>Vacation with children</td>
-<td>-</td>
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Vienna, AUT</td>
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+
+
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+<td>Vacation with children</td>
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Vienna, AUT</td>
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
+
+
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+
 </tr>
 <tr>
 
@@ -5232,18 +15342,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Vrsar, HRV</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Sports and outdoor activities</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>Sports and outdoor activities, <br/>Interesting excursions, <br/>Silence and solitude, <br/>Swimsuit season</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Vrsar, HRV</td>
+
+
+
+
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Vrsar, HRV</td>
+
+
+
+
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Vrsar, HRV</td>
+
+
+
+
+
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+<td>Swimsuit season</td>
+
+
+
 </tr>
 <tr>
 
@@ -5266,12 +15466,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -5296,12 +15496,12 @@ export default function Home() {
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
+
+
+
+
+
+
 <td>Skiing and snowboarding</td>
 <td>Skiing and snowboarding</td>
 </tr>
@@ -5322,18 +15522,108 @@ export default function Home() {
 </tr>
 <tr>
 <td>Zell am See, AUT</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Skiing and snowboarding</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities</td>
-<td>Interesting excursions, <br/>Silence and solitude, <br/>Skiing and snowboarding, <br/>Sports and outdoor activities</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Silence and solitude, <br/>Sports and outdoor activities, <br/>Interesting excursions, <br/>Skiing and snowboarding</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+<td>Silence and solitude</td>
+
+
+
+
+
+
+
+
+<td>Silence and solitude</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Zell am See, AUT</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+<td>Sports and outdoor activities</td>
+
+
+
+
+
+
+
+
+<td>Sports and outdoor activities</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Zell am See, AUT</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+<td>Interesting excursions</td>
+
+
+
+
+
+
+
+
+<td>Interesting excursions</td>
+</tr>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Zell am See, AUT</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
 </tr>
 <tr>
 
@@ -5352,21 +15642,50 @@ export default function Home() {
 </tr>
 <tr>
 <td>Zermatt, CHE</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
 <td>Luxury and prestige</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
-<td>Skiing and snowboarding, <br/>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
+<td>Luxury and prestige</td>
 </tr>
-</tbody></table>
-         <footer className={styles.footer}>
+<tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tr>
+<tr>
+<td>Zermatt, CHE</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+
+
+
+
+
+
+<td>Skiing and snowboarding</td>
+<td>Skiing and snowboarding</td>
+</tr>
+</tbody></table>        <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
